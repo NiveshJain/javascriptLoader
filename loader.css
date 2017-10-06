@@ -1,0 +1,24 @@
+
+
+.animate-opacity {
+
+	animation: imageOpacity infinite 3s ease-in;
+}
+
+@keyframes imageOpacity {
+
+    0% {
+  
+    opacity: 0
+  }
+
+  50% {
+  	opacity: 1
+  }
+
+  100% {
+
+ opacity: 0
+  }
+
+}
